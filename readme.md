@@ -74,9 +74,9 @@ Luego de terminar debes enviar los cambios (vía push) y subir el link del repos
 Empresas Grandes y medianas que requieran servicio de Aseo.
  
 #### screenshot de la página de Inicio
-![aquí](Inicio.jpg)
+![aquí](Inicio.png)
 
 #### screenshot de la página de Blog
-![aquí](Blog.jpg)
+![aquí](Blog.png)
 
 
