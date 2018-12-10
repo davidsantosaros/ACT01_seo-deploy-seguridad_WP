@@ -70,3 +70,13 @@ Luego de terminar debes enviar los cambios (vía push) y subir el link del repos
 
 ##### **Mucha suerte!**
 
+#### Buscar el público objetivo de la empresa 
+Empresas Grandes y medianas que requieran servicio de Aseo.
+ 
+#### screenshot de la página de Inicio
+![aquí](Inicio.jpg)
+
+#### screenshot de la página de Blog
+![aquí](Blog.jpg)
+
+
